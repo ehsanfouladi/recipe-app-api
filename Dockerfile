@@ -1,5 +1,4 @@
-FROM python:3.7-alpine
-MAINTAINER Ehsan Fouladi
+FROM python:3.9-alpine
 
 ENV PYTHONUNBUFFERED 1
 
